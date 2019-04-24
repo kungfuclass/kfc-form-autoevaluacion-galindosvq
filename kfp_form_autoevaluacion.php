@@ -23,3 +23,5 @@
  // Creación del menú de administración
  
  // Creación de la tabla de resultados
+
+ // Función auxiliar para capturar la IP del usuario 
